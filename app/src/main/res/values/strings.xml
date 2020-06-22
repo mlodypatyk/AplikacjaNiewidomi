@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikacja Niewidomi</string>
+    <string name="notifications">Powiadomienia</string>
+    <string name="button_name">Aktualizaja</string>
+    <string name="reset_button_name">Reset</string>
+    <string name="channel_name">ua</string>
+    <string name="channel_description">ua2</string>
+</resources>
